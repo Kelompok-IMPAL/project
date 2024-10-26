@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_account">My_Account</string>
+    <string name="underline_text">&lt;u&gt;My_Account&lt;/u&gt;</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Laundry_Tracker</string>
+=======
+    <string name="app_name">home_blaundry</string>
+>>>>>>> 62fc972 (Home)
+</resources>
